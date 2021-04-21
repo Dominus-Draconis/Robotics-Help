@@ -1,27 +1,27 @@
+# Notebook tips
+ 
+## Table of Contents
+* [The Notebook](*the-notebook)
+Topic 1: Identify game and robot design challenges and goals
+Topic 2: Brainstorm and diagram or prototype solutions
+Topic 3: Select the best solution and plan
+Topic 4: Build and program the solution
+Topic 5: Test solution
+Topic 6: Repeat design process
+Topic 7: Usefulness and repeatability
+Topic 8: Record of team and project management
+Topic 9: Notebook construction
+The Interview
+Topic 1: Design prosses and Engineering Notebook
+Topic 2: Game strategies and robot designs
+Topic 3: Project and team management
+Topic 4: Teamwork and communication
+Topic 5: Respect and courtesy
+
+
 
  
-Table of Contents
-The Notebook	2
-Topic 1: Identify game and robot design challenges and goals	3
-Topic 2: Brainstorm and diagram or prototype solutions	4
-Topic 3: Select the best solution and plan	4
-Topic 4: Build and program the solution	5
-Topic 5: Test solution	6
-Topic 6: Repeat design process	6
-Topic 7: Usefulness and repeatability	6
-Topic 8: Record of team and project management	7
-Topic 9: Notebook construction	8
-The Interview	9
-Topic 1: Design prosses and Engineering Notebook	10
-Topic 2: Game strategies and robot designs	10
-Topic 3: Project and team management	11
-Topic 4: Teamwork and communication	11
-Topic 5: Respect and courtesy	12
-
-
-
- 
-The Notebook
+## The Notebook
 
 	Criteria
 Topic	Expert

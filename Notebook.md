@@ -1,36 +1,7 @@
 # Notebook tips
 
 ## Table of Contents
-
-* **[How It Works](#how-it-works)**
-  * [Understanding PATH](#understanding-path)
-  * [Understanding Shims](#understanding-shims)
-  * [Choosing the Python Version](#choosing-the-python-version)
-  * [Locating the Python Installation](#locating-the-python-installation)
-* **[Installation](#installation)**
-  * [Basic GitHub Checkout](#basic-github-checkout)
-    * [Upgrading](#upgrading)
-    * [Homebrew on macOS](#homebrew-on-macos)
-    * [Advanced Configuration](#advanced-configuration)
-    * [Uninstalling Python Versions](#uninstalling-python-versions)
-* **[Command Reference](#command-reference)**
-* **[Development](#development)**
-  * [Version History](#version-history)
-  * [License](#license)
-
-
-----
-
-
-## How It Works
-
-At a high level, pyenv intercepts Python commands using shim
-executables injected into your `PATH`, determines which Python version
-has been specified by your application, and passes your commands along
-to the correct Python installation.
-
-## Table of Contents
-* [The Notebook](*the-notebook)
+* [The Notebook](#the-notebook)
 Topic 1: Identify game and robot design challenges and goals
 Topic 2: Brainstorm and diagram or prototype solutions
 Topic 3: Select the best solution and plan

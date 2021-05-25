@@ -89,47 +89,47 @@ void onepointleft(){
 //function for the skills autonomous
 void skills(){
 	chassis->setState({0_in, 0_in, 0_deg});	//set inital conditions
-	chassis->setMaxVelocity(100);						//make it slow
-	towerControl->setTarget(-300);					//flip out hood
-	intake(1);															//start intakes
-	chassis->moveDistance(20_in);						//move to first ball
-	chassis->turnToAngle(90_deg);				  	//turns to vertical center line
-	intake(0);															//stop intakes
-	chassis->moveDistance(36_in);				  	//moves to vertical center line
-	chassis->turnToAngle(180_deg);				  	//turns to goal
+	chassis->setMaxVelocity(100);	//make it slow
+	towerControl->setTarget(-300);//flip out hood
+	intake(1);	//start intakes
+	chassis->moveDistance(20_in);	//move to first ball
+	chassis->turnToAngle(90_deg);	//turns to vertical center line
+	intake(0);	//stop intakes
+	chassis->moveDistance(36_in);	//moves to vertical center line
+	chassis->turnToAngle(180_deg);	//turns to goal
 	chassis->setMaxVelocity(50);
-	chassis->moveDistance(11_in);				  	//moves to first goal
-	score1(2);															//scores 2 balls in first goal
-	chassis->moveDistance(-6.8_in);					//backs up
+	chassis->moveDistance(11_in);	//moves to first goal
+	score1(2);	//scores 2 balls in first goal
+	chassis->moveDistance(-6.8_in);	//backs up
 	chassis->setMaxVelocity(100);
-	chassis->turnToAngle(0_deg);					//turn around
-	intake(1);															//start intakes
-	chassis->moveDistance(24_in);						//moves to second ball
-	chassis->turnToAngle(-45_deg);					//turns to third ball
-	chassis->moveDistance(32_in);				  	//moves to third ball
-	chassis->turnToAngle(-15_deg);						//turns to fourth ball
-	chassis->moveDistance(42_in);						//moves to fourth ball
-	chassis->turnToAngle(-57_deg);					//turns to second goal
-	intake(0);															//starts intaking balls
-	chassis->moveDistance(24.8_in);					//moves to second goal
-	score1(3);															//scores one ball
-	chassis->moveDistance(-10.8_in);				//backs up
-	chassis->turnToAngle(-120_deg);					//turns to fifth ball
-	intake(1);															//starts intakes
-	chassis->moveDistance(56_in);						//moves to fifth ball
-	chassis->turnToAngle(90_deg);					  //turns to third goal
-	intake(0);															//stops intakes
-	chassis->moveDistance(7.2_in);					//moves to third goal
-	score(2); 															//scores two balls
-	chassis->moveDistance(-7.2_in);					//backs up
-	chassis->turnToAngle(90_deg);				  //turns to face starting wall
-	chassis->moveDistance(36_in);						//moves to starting wall
-	chassis->turnToAngle(90_deg);					//turns to sixth ball
-	intake(1);															//starts intakes
-	chassis->moveDistance(15.2_in);					//moves to sixth ball
-	chassis->moveDistance(-15.2_in);				//backs up
-	intake(0);															//stop intakes
-	chassis->turnToAngle(120_deg);			//turn to fourth goal
-	chassis->moveDistance(24.4_in);					//move to fourth goal	score1(1);
-	chassis->moveDistance(-10_in);					//backs up
+	chassis->turnToAngle(0_deg);	//turn around
+	intake(1);	//start intakes
+	chassis->moveDistance(24_in);	//moves to second ball
+	chassis->turnToAngle(-45_deg);	//turns to third ball
+	chassis->moveDistance(32_in);	//moves to third ball
+	chassis->turnToAngle(-15_deg);	//turns to fourth ball
+	chassis->moveDistance(42_in);	//moves to fourth ball
+	chassis->turnToAngle(-57_deg);	//turns to second goal
+	intake(0);	//starts intaking balls
+	chassis->moveDistance(24.8_in);	//moves to second goal
+	score1(3);	//scores one ball
+	chassis->moveDistance(-10.8_in);	//backs up
+	chassis->turnToAngle(-120_deg);	//turns to fifth ball
+	intake(1);	//starts intakes
+	chassis->moveDistance(56_in);	//moves to fifth ball
+	chassis->turnToAngle(90_deg);	//turns to third goal
+	intake(0);	//stops intakes
+	chassis->moveDistance(7.2_in);	//moves to third goal
+	score(2);	//scores two balls
+	chassis->moveDistance(-7.2_in);	//backs up
+	chassis->turnToAngle(90_deg);	//turns to face starting wall
+	chassis->moveDistance(36_in);	//moves to starting wall
+	chassis->turnToAngle(90_deg);	//turns to sixth ball
+	intake(1);	//starts intakes
+	chassis->moveDistance(15.2_in);	//moves to sixth ball
+	chassis->moveDistance(-15.2_in);	//backs up
+	intake(0);	//stop intakes
+	chassis->turnToAngle(120_deg);	//turn to fourth goal
+	chassis->moveDistance(24.4_in);	//move to fourth goal	score1(1);
+	chassis->moveDistance(-10_in);	//backs up
 }

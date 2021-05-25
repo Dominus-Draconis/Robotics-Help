@@ -2,26 +2,26 @@
 
 ## Table of Contents
 * **[The Notebook](#the-notebook)**
-  * [Topic 1: Identify game and robot design challenges and goals](#topic-1:-identify-game-and-robot-design-challenges-and-goals)
-  * [Topic 2: Brainstorm and diagram or prototype solutions](#topic-2:-brainstorm-and-diagram-or-prototype-solutions)
-  * [Topic 3: Select the best solution and plan](#topic-3:-select-the-best-solution-and-plan)
-  * [Topic 4: Build and program the solution](#topic-4:-build-and-program-the-solution)
-  * [Topic 5: Test solution](#topic-5:-test-solution)
-  * [Topic 6: Repeat design process](#topic-6:-repeat-design-process)
-  * [Topic 7: Usefulness and repeatability](#topic-7:-usefulness-and-repeatability)
-  * [Topic 8: Record of team and project management](#topic-8:-record-of-team-and-project-management)
-  * [Topic 9: Notebook construction](#topic-9:-notebook-construction)
+  * [Topic 1: Identify game and robot design challenges and goals](#topic-1-identify-game-and-robot-design-challenges-and-goals)
+  * [Topic 2: Brainstorm and diagram or prototype solutions](#topic-2-brainstorm-and-diagram-or-prototype-solutions)
+  * [Topic 3: Select the best solution and plan](#topic-3-select-the-best-solution-and-plan)
+  * [Topic 4: Build and program the solution](#topic-4-build-and-program-the-solution)
+  * [Topic 5: Test solution](#topic-5-test-solution)
+  * [Topic 6: Repeat design process](#topic-6-repeat-design-process)
+  * [Topic 7: Usefulness and repeatability](#topic-7-usefulness-and-repeatability)
+  * [Topic 8: Record of team and project management](#topic-8-record-of-team-and-project-management)
+  * [Topic 9: Notebook construction](#topic-9-notebook-construction)
 * **[The Interview](#the-interview)**
-  * [Topic 1: Design process and Engineering Notebook](#topic-1:-design-process-and-Engineering-Notebook)
-  * [Topic 2: Game strategies and robot designs](#topic-2:-game-strategies-and-robot-designs)
-  * [Topic 3: Project and team management](#topic-3:-project-and-team-management)
-  * [Topic 4: Teamwork and communication](#topic-4:-teamwork-and-communication)
-  * [Topic 5: Respect and courtesy](#topic-5:-respect-and-courtesy)
+  * [Topic 1: Design process and Engineering Notebook](#topic-1-design-process-and-Engineering-Notebook)
+  * [Topic 2: Game strategies and robot designs](#topic-2-game-strategies-and-robot-designs)
+  * [Topic 3: Project and team management](#topic-3-project-and-team-management)
+  * [Topic 4: Teamwork and communication](#topic-4-teamwork-and-communication)
+  * [Topic 5: Respect and courtesy](#topic-5-respect-and-courtesy)
 
 ## The Notebook
 ![Notebook Rubric](/assets/notebook-rubric.png)
 
-## Topic 1: Identify game and robot design challenges and goals
+## Topic 1 Identify game and robot design challenges and goals
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -38,9 +38,9 @@ List key rules, this might include scoring rules, specific game rules, entrapmen
 Write down a design statement about what the goal of your robot is such as:
 >Design, build, and compete with a robot that can [your goals] in the vex game […]
 
-Also list strategies, this can include simple things such as being able to score pints or complex strategies such as defensive ones or the order in which you want to score points. These strategies also function as goals about what you want your robot to do in more specific terms.
+Also list strategies, this can include simple things such as being able to score points or complex strategies such as defensive ones or the order in which you want to score points. These strategies also function as goals about what you want your robot to do in more specific terms.
  
-## Topic 2: Brainstorm and diagram or prototype solutions
+## Topic 2 Brainstorm and diagram or prototype solutions
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -50,7 +50,7 @@ Before building you want to come up with at least 3 possible robot designs, it i
 
 For each design describe and sketch it out. Be sure to label where the motors are and other important elements such as wheels or gears. In addition to sketches, I like to provide a list of pros and cons as well as a short description. It is also possible to build a simple prototype of a solution and include images and results of any tests you run on the prototype.
 
-## Topic 3: Select the best solution and plan
+## Topic 3 Select the best solution and plan
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
 | Select the best solution and plan	| Explains why the solution was selected through testing and/or a decision matrix. **Fully describes the plan** to implement the solution.	| Explains why the solution was selected. **Mentions the plan**. | **Does not explain** why the solution was selected or does not mention the plan. |
@@ -78,14 +78,14 @@ Make the sketches as detailed as possible and try to include a list of parts you
 > - 15 hole long c-channel (*4)
 > - 18 tooth gear (*2)
 
-## Topic 4: Build and program the solution
+## Topic 4 Build and program the solution
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
 | Build and program the solution | Records the steps to build and program the solution. Includes enough detail that the reader **could recreate the solution following the steps in the Notebook**. | Records the key steps to build and program the solution. **Lacks sufficient detail to recreate the solution**. | **Does not record the key steps** to build and program the solution. |
 
 Record all the steps you take to build the robot. You should do this through daily entries describing all changes made to the robot and why in as much detail as possible. As the rubric says,
->"Includes enough detail that the reader could recreate the solution following the steps in the notebook”
+>"Includes enough detail that the reader could recreate the solution following the steps in the notebook"
 
 This means you should be incredibly specific about the sizes and materials of the pieces you use. If you do change your design, provide updated sketches when possible. Pictures of construction are incredibly helpful but when you include pictures use them together with words and descriptions of what is in the picture. However, pictures are not as helpful as a good sketch. If you don’t have a picture or drawing skills, even a simple sketch can help you describe what changes you made to the robot.
 
@@ -93,7 +93,7 @@ In addition to documenting changes to the robot, provide code to your robot or j
 
 [Guide to Printing Code](https://github.com/Dominus-Draconis/Robotics-Help/blob/main/Notebook-and-Interview/printing-code.md)
 
-## Topic 5: Test solution
+## Topic 5 Test solution
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -105,9 +105,9 @@ For example, after the chassis is finished, test it out by driving it around to 
 
 Other tests might include testing if a lift is high enough including measurements or testing if it has enough power to lift game elements.
 
-Testing is also a key part in programming an autonomous. It will likely not work the first time and will go though many iterations before you get a consistently working autonomous and these iterations and changes can be recorded as testing in the notebook.
+Testing is also a key part in programming an autonomous. It will likely not work the first time and will go through many iterations before you get a consistently working autonomous and these iterations and changes can be recorded as testing in the notebook.
 
-## Topic 6: Repeat design process
+## Topic 6 Repeat design process
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -117,9 +117,9 @@ After tests, you might realize you need to rework your design. If you do this, m
 
 You might also find you want to change an element of the robot after a competition if you saw a better design or if your design did not work.
 
-This topic and the previous work together because often if you test a solution and it does not work you will have to repeat the design prosses.
+This topic and the previous work together because often if you test a solution and it does not work you will have to repeat the design process.
 
-## Topic 7: Usefulness and repeatability
+## Topic 7 Usefulness and repeatability
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -127,7 +127,7 @@ This topic and the previous work together because often if you test a solution a
 
 This topic is essentially a sum of previous topics. If you write detailed daily entries and get the points for other topics, you should be able to do well in this category. As before, include plenty of detail such that a reader could recreate your robot from your notebook.
 
-## Topic 8: Record of team and project management
+## Topic 8 Record of team and project management
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -148,7 +148,7 @@ Notebook should be professional:
 
 Design Cycles should be easily identifiable. List the start of any new design cycles in the table of contents and try to label so it’s easily recognizable
 
-## Topic 9: Notebook construction
+## Topic 9 Notebook construction
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -159,10 +159,10 @@ You get 5 points for either a bound notebook or a digital one with confirmable t
 # The Interview
 ![Interview Rubric](/assets/interview-rubric.png)
 
-[Rubrics](https://github.com/Dominus-Draconis/Robotics-Help/blob/main/Notebook-and-Interview/rubrics.pdf)
+[Rubrics](https://github.com/Dominus-Draconis/Robotics-Help/blob/main/Notebook-and-Interview/rubrics.pdf)  
 As a team look over and discuss the team interview Rubric, this will help give you an idea of what to talk about.
 
-[Judge Guide](https://github.com/Dominus-Draconis/Robotics-Help/blob/main/Notebook-and-Interview/judge-guide.pdf)
+[Judge Guide](https://github.com/Dominus-Draconis/Robotics-Help/blob/main/Notebook-and-Interview/judge-guide.pdf)  
 It can also be helpful to look over the judge guide to help prepare. The judges guide contains more detailed specifics of what the judges are looking for in particular awards and has some example interview questions that it can be helpful to look over for an idea of what the judges might ask you.
 
 I would recommend assigning certain topics to the different members of your team. This will help ensure everyone speaks for similar lengths of time and will help minimize interruptions.
@@ -171,30 +171,30 @@ Make sure to introduce yourself to the judges, just your names are enough, but i
 
 The judges often ask the first question “So, tell us about your robot”, make sure you prepare for this type of open ended question and make sure to also be prepared for follow up questions about your specific answers.
    
-## Topic 1: Design process and Engineering Notebook
+## Topic 1 Design process and Engineering Notebook
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
 | Design process and Engineering Notebook | Students **clearly explain all aspects of the design process** and how they recorded their use of the design process in the Notebook. | Students can **explain most aspects of the design process** and how they recorded their use of the process. | Students **can explain only limited aspects of the design** process and how they recorded their use of the process. |
 
-### Students clearly explain all aspects of the design process
+### Students clearly explain all aspects of the design process.
 Talk about your design process, or how you went from brainstorming to choosing a design to building the design. You can explain how you brainstormed designs then choose between them with a decision matrix. I would recommend the person who writes your notebook talking about this topic as they probably know the most about it.
 
-## Topic 2: Game strategies and robot designs
+## Topic 2 Game strategies and robot designs
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
 | Game strategies and robot designs | Students can describe **three or more game strategies** and robot designs that were considered; students can fully explain how and why the current game strategy and robot design were chosen. | Students can describe **two game strategies** and robot designs that were considered; students can explain how and why the current game strategy or robot design were chosen. | Students can describe **only their current game strategy** and design, or they cannot explain how and why the current game strategy or robot design were chosen. |
 
-### Students can describe three or more game strategies
+### Students can describe three or more game strategies.
 Make sure to mention at least 3 game strategies, these will be the ones you hopefully recorded at the beginning of your notebook. My team always likes to say *“our first strategy is, …”* to make it clear to the judges what we are doing.
 
 If there are strategies that you considered but don’t use, talk about them and why you don’t use them, for example if you don’t play defense, you could talk about how you are bad at driving defense or your chassis is too slow to stop robots, or your chassis is too weak to push robots. My team usually has each person responsible for saying a strategy when the time is right in conversation
 
-### Students can describe three or more robot designs that were considered
+### Students can describe three or more robot designs that were considered.
 Also mention at least 3 robot designs that you considered, including your current one, again these should be in your notebook’s brainstorming at the beginning. Talk about why those designs wouldn’t be as effective or talk about old designs you tried but didn’t work. My team had one person explain all the robot designs.
 
-## Topic 3: Project and team management
+## Topic 3 Project and team management
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -206,7 +206,7 @@ Talk about the timelines you should have included in your notebook and how you u
 ### Students can explain management of materials and students.
 Talk about how each person on your team’s time was managed well, for example, maybe your main builder was working on the chassis while the programmer war programing. Also talk about how you managed if certain team members were absent. Mention any problems you might have had with not finding the parts you need or how you planned out getting the parts you need.
 
-## Topic 4: Teamwork and communication
+## Topic 4 Teamwork and communication
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
@@ -218,13 +218,13 @@ Explain each team members role on the team and how they contributed to the robot
 ### All students answer questions independently.
 You don’t want one team member talking the whole time, try to make sure every member speaks equally.
 
-## Topic 5: Respect and courtesy
+## Topic 5 Respect and courtesy
 
 | Topic | Expert (4-5) | Proficient (2-3) | Emerging (0-1) |
 | ----- | ------------ | ---------------- | ---------------|
 | Respect and courtesy | Students answer respectfully and courteously. Students **make sure each team member contributes**. Students wait to speak until others have finished. | Students answer respectfully and courteously. **Some students attempt to contribute** but are interrupted by other students. | Students **do not answer respectfully** and courteously. Students interrupt each other or the Judges. |
 
-### Answer questions respectfully
+### Answer questions respectfully.
 Be sure to introduce yourself and make sure each team member speaks as with topic 4.
 
 ### Don’t interrupt.

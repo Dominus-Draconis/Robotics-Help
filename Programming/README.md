@@ -6,8 +6,8 @@ This is the code from my robot gregor, it is organized into 4 files
 *  `main.cpp` - The main body of the code. Has code for driver control and is where the auton functions are called for the game
 *  `header.h` - Allows the main file to access the declarations and functions from other files
 
-[Okapi](https://okapilib.github.io/OkapiLib/index.html)
+[Okapi](https://okapilib.github.io/OkapiLib/index.html)  
 Okapi is a library to help program the robot, it especialy helps with the chassis
 
-[PROS](https://pros.cs.purdue.edu/v5/index.html)
+[PROS](https://pros.cs.purdue.edu/v5/index.html)  
 Documentation for PROS

@@ -13,7 +13,7 @@ Breakdown:
 * `-C` - Include line numbers
 * `-E` - Highlights the code(like the code editor does)
 * `-p` - Outputs the result to a postscript file if you want to look at the code before printing. Without this it will just go directly to the printer
-* `-code.ps` - Postscript file for the code to be outputed to, goes with the `-p` tag
+* `code.ps` - Postscript file for the code to be outputed to, goes with the `-p` tag
 * `main.cpp` - File to be printed
 
 [Enscript website](https://linux.die.net/man/1/enscript)
